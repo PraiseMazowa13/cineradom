@@ -174,7 +174,7 @@ class MyApp(ctk.CTk):
             msg.pack()
 
 ##_____________________________________________
-    def listing(self):
+    def play_list(self):
 
         self.clean_frame(self.r_frame)
 
